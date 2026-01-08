@@ -1,0 +1,47 @@
+
+========================================
+Training Report: Random Forest Classifier
+========================================
+Image Size: (64, 64)
+Total Images: 11581
+Training Set: 8106
+Testing Set: 3475
+Accuracy: 80.00%
+----------------------------------------
+Classification Report:
+                                      precision    recall  f1-score   support
+
+           Anggrek Pot-Potted Orchid       0.97      1.00      0.98       118
+           Anggrek Potong-Cut Orchid       0.86      0.86      0.86       134
+Anthurium Bunga-Flamingo Lily Flower       0.81      0.92      0.86       108
+            Anthurium Daun-Anthurium       0.81      0.79      0.80       131
+              Balanceng-Dieffenbacia       0.84      0.74      0.79       119
+                   Bromelia-Bromelia       0.88      0.94      0.91       127
+                   Bugenvil-Bugenvil       0.60      0.67      0.63       109
+                   Dracaena-Dracaena       1.00      0.87      0.93       132
+                 Euphorbia-Euphorbia       0.95      1.00      0.97       125
+                  Hanjuang-Cordyline       0.59      0.36      0.45       121
+                     Herbras-Gerbera       0.74      0.93      0.82       131
+              Kamboja Jepang-Adenium       0.93      0.92      0.92       113
+                Keladi Hias-Caladium       0.74      0.84      0.78       128
+                 Krisan-Chrysantemum       0.85      1.00      0.92       110
+                          Mawar-Rose       0.62      0.57      0.59       111
+                      Melati-Jasmine       0.86      0.98      0.91       121
+                   Monstera-Monstera       0.99      0.93      0.96       129
+             Pakis-Leather Leaf Fern       0.79      0.82      0.81        97
+                          Palem-Palm       0.74      0.91      0.82       109
+          Pedang-pedangan-Sanseviera       0.89      0.81      0.85       129
+           Philodendron-Philodendron       0.76      0.82      0.79       122
+           Pisang-Pisangan-Heliconia       0.75      0.81      0.78       112
+                       Puring-Croton       0.81      0.86      0.84       117
+                Sedap Malam-Tuberose       0.92      0.94      0.93       129
+                          Soka-Ixora       0.98      1.00      0.99       120
+                Sri Rejeki-Aglaonema       0.89      0.71      0.79       119
+                               Tulip       0.39      0.32      0.35       112
+                               daisy       0.43      0.38      0.40       113
+                           dandelion       0.52      0.42      0.46       129
+
+                            accuracy                           0.80      3475
+                           macro avg       0.79      0.80      0.79      3475
+                        weighted avg       0.79      0.80      0.79      3475
+
